@@ -20,7 +20,7 @@
 
 title: Jean Baptiste Minani's Personal Website
 email: baptiste2k8@example.com
-description:Jean Baptiste's Personal website
+description:"Jean Baptiste's Personal website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jbm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: baptiste2k8
